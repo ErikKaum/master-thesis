@@ -1,6 +1,10 @@
 # Demand estimation with double/debiased machine learning: a comparison to traditional methods
 **Author**: Erik Kaunismäki
+
+
 **Thesis Supervisor**: Ari Hyytinen
+
+
 **Grade**: overall: 4/5, choice of research method: 5/5
 
 ## Abstract:
